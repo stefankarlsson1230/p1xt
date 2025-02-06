@@ -37,7 +37,7 @@ My progression through the [p1xt curricula](https://github.com/P1xt/p1xt-guides)
 
 | Courses                                                                               | Status | Evidence |
 | :------------------------------------------------------------------------------------ | :----: | :------: |
-| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |&#10003;   | [link](images/khanAcademy/arithmetic.png)         |
+| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |&#10003;   | [link](images/khanAcademy/arithmetic.PNG)         |
 | [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           |&#10003;   | [link](images/khanAcademy/preAlgerbra.PNG)         |
 | [Algebra I](https://www.khanacademy.org/math/algebra)                                 | 95%       |          |
 | [Geometry](https://www.khanacademy.org/math/geometry)                                 | 36%       |          |
